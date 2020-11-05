@@ -14,7 +14,7 @@ The deployment artifacts will be generated in the target directory of the projec
 
 ``` 
 .
-├── Ballerina.cloud                               <- Used to override default configerations used to generate artifacts.
+├── Ballerina.cloud                               <- Used to override default configurations used to generate artifacts.
 ├── Ballerina.lock
 ├── Ballerina.toml
 ├── src
